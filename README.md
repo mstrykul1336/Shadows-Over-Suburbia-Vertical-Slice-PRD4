@@ -1,4 +1,6 @@
 # Shadows Over Suburbia Vertical Slice PRD4
+Play: https://mstrykul1336.github.io/Shadows-Over-Suburbia-Vertical-Slice-PRD4/
+Full Project: https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-
 **11/4/24:**
 **What was done:**
 - serialized all of the timers and added to check if master client before any coroutines are called. 
